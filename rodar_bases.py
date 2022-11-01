@@ -219,7 +219,7 @@ def loucura_loucura(inicio, fim, nome_arquiv):
     ##atraso_chao
     ##diaria
 
-
+  
  
 
 
